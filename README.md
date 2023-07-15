@@ -1,5 +1,12 @@
 # excalibur_vscode_debuggable_template
 
+This repository is **Deprecated** .
+Please use
+[Vite template](https://github.com/tenpaMk2/excalibur-vite-vscode-debuggable-template)
+instead.
+
+---
+
 The template project which can debug at VSCode.
 Using...
 
